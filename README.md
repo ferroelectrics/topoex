@@ -17,3 +17,7 @@ Use the values of Ginzburg-Landau expansion coefficients that suit the choosen m
 Please note that you need to generate the supporting mesh using for example the [gmsh](https://gmsh.info/) package.
 
 Please, consult the documentation in tex file for greater level of technical details.
+
+## Acknowledgements
+
+The code was developed in frame of the H2020-MSCA-RISE-2019 project MELON, GA872631
