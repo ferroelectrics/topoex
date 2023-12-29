@@ -6,7 +6,7 @@ Simulation of topological excitations in ferroic materials using [FEniCS](https:
 
 First of all you need to install FEniCS package. Please, follow [this](https://fenics.readthedocs.io/en/latest/installation.html) instructions.
 
-Having the FEniCS installed and assuming that you have files 'equations.py' and 'driver.py' in one directory with generated finite element mesh you can run the simulation using follow commands
+Having the FEniCS installed and assuming that you have files 'meshgen.py', 'equations.py' and 'driver.py' in one directory with generated finite element mesh you can run the simulation using follow commands
 
 ```
 python3 meshgen.py --msh_mesh your_mesh_name.msh --dim 3d # to generate mesh suitable for FEniCS
