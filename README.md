@@ -15,3 +15,5 @@ mpirun -n N_of_threads python3 driver.py --alpha1 -1.0 --alpha11 0.5 etc...
 Use the values of Ginzburg-Landau expansion coefficients that suit the choosen material.
 
 Please note that you need to generate the supporting mesh using for example the [gmsh](https://gmsh.info/) package.
+
+Please, consult the documentation in tex file for greater level of technical details.
